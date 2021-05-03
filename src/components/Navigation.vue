@@ -100,10 +100,10 @@
  </v-app-bar> -->
 
  <v-app-bar
- 
+    
     inverted-scroll
     app
-    class="appBar2 expand hidden-md-and-down " 
+    class="expand hidden-md-and-down " 
     color="rgb(90,13,4,255) "
     :width= imgWi
     :height= imgHe
